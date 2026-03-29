@@ -101,7 +101,8 @@ This separation allows clean logic between layout, rendering, and input handling
 
 ## 📸 Preview
 
-*(Add screenshots or GIFs here — highly recommended)*
+![demo](https://github.com/user-attachments/assets/36215119-ee8a-482b-a99e-dbe48e9b4bd4)
+
 
 ---
 
