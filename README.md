@@ -129,7 +129,9 @@ MIT License
 
 ## ⚡ Final Note
 
-*5TM is an experiment in pushing the limits of what a terminal interface can do.
-A window manager — without leaving the terminal. 
-*I know Python is not a performance-oriented language, but useful for taking abstraction to reality
+5TM is an experiment in pushing the limits of terminal interfaces.  
+A window manager — without leaving the terminal.
+
+While Python is not a performance-oriented language, 
+it provides the flexibility needed to turn ideas into working systems quickly.
 
