@@ -36,7 +36,7 @@ Inspired by Hyprland, it brings dynamic layouts, animated splits, and a minimal 
 
 * Python 3.10+
 * A Unix-like environment (Linux, macOS)
-* A compatible terminal (zsh, xterm, kitty, alacritty…)
+* A compatible terminal (xterm, kitty, alacritty, wezterm…)
 * External dependencies: pyte, psutil. Install with: `pip install pyte psutil`
 
 ### Run
@@ -64,17 +64,17 @@ Note: I recommend using python virtual environment
 
 ## 📁 Project structure
 
-5TM is built within this file structure:
-
-main.py (core)<br>
-├─> gestor_ventanas.py (window manager)<br>
-├─> estado_red.py (ip/internet status indicator)<br>
-├─> medidor_cpu.py (cpu % indicator)<br>
-├─> cuadro.py (window instance)<br>
-├─> sesion_terminal.py (emulated terminal instance)<br>
-├─> nodo.py (node type declaration/tree creation)<br>
-├─> layout.py (split and destroy frames)<br>
-├─> animacion.py (renderer)<br>
+```bash
+5TM/
+├── main.py                # entry point
+├── gestor_ventanas.py    # window manager core
+├── estado_red.py         # network status indicator
+├── medidor_cpu.py        # CPU usage indicator
+├── cuadro.py             # window abstraction
+├── sesion_terminal.py    # terminal emulation
+├── nodo.py               # layout tree structure
+├── layout.py             # layout computation
+└── animacion.py          # rendering & animations
 
 This separation allows clean logic between layout, rendering, and input handling.
 
