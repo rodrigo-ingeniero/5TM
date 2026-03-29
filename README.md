@@ -44,7 +44,7 @@ Inspired by Hyprland, it brings dynamic layouts, animated splits, and a minimal 
 ```bash
 python main.py
 ```
-I recommend using python virtual environment
+Note: I recommend using python virtual environment
 
 ---
 
@@ -88,12 +88,13 @@ This separation allows clean logic between layout, rendering, and input handling
 
 ---
 
-## 🛠️ Roadmap
+## 🛠️ Roadmap/pending
 
+* [ ] Color support
 * [ ] Directional focus (like i3 / Hyprland)
+* [ ] Configurable keybindings
 * [ ] Resizing windows
 * [ ] Mouse support
-* [ ] Configurable keybindings
 * [ ] Plugin / extension system
 
 ---
