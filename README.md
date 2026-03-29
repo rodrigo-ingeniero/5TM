@@ -44,6 +44,8 @@ Inspired by Hyprland, it brings dynamic layouts, animated splits, and a minimal 
 ```bash
 python main.py
 ```
+I recommend using python virtual environment
+
 ---
 
 ## ⌨️ Keybindings
@@ -65,8 +67,8 @@ python main.py
 5TM is built within this architecture:
 
 * main.py
-*    |-> gestor_ventanas.py (window manager)
-*    |-> estado 
+* |-> gestor_ventanas.py (window manager)
+* |-> estado
 
 This separation allows clean logic between layout, rendering, and input handling.
 
@@ -105,7 +107,7 @@ Feel free to open issues or submit pull requests.
 
 ## 📄 License
 
-MIT License (or your preferred license)
+MIT License
 
 ---
 
