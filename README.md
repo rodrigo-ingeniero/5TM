@@ -75,7 +75,7 @@ Note: I recommend using python virtual environment
 ├── nodo.py               # layout tree structure
 ├── layout.py             # layout computation
 └── animacion.py          # rendering & animations
-
+```
 This separation allows clean logic between layout, rendering, and input handling.
 
 ---
