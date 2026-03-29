@@ -101,8 +101,9 @@ This separation allows clean logic between layout, rendering, and input handling
 
 ## 📸 Preview
 
-![demo](https://github.com/user-attachments/assets/36215119-ee8a-482b-a99e-dbe48e9b4bd4)
+A quick demonstration of a typical 5TM workflow:
 
+![demo](https://github.com/user-attachments/assets/c167784f-428a-4d99-8b3b-c5e667119bf2)
 
 ---
 
