@@ -58,7 +58,7 @@ Note: I recommend using python virtual environment
 | `Alt + s` | Focus next window   |
 | `Alt + a` | Focus previous win. |
 
-(On MacBook PCs use "option" key instead of "Alt)
+> On macOS, use the `Option` key instead of `Alt`.
 
 ---
 
@@ -66,7 +66,7 @@ Note: I recommend using python virtual environment
 
 ```bash
 5TM/
-├── main.py                # entry point
+├── main.py               # entry point
 ├── gestor_ventanas.py    # window manager core
 ├── estado_red.py         # network status indicator
 ├── medidor_cpu.py        # CPU usage indicator
