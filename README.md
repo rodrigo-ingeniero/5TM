@@ -64,11 +64,12 @@ I recommend using python virtual environment
 
 ## 🏗️ Architecture
 
-5TM is built within this architecture:
+5TM is built within this file architecture:
 
-* main.py
-* |-> gestor_ventanas.py (window manager)
-* |-> estado
+main.py
+
+|-> gestor_ventanas.py (window manager)
+|-> estado
 
 This separation allows clean logic between layout, rendering, and input handling.
 
