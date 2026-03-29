@@ -50,13 +50,13 @@ Note: I recommend using python virtual environment
 
 ## ⌨️ Keybindings
 
-| Key       | Action              |
-| --------- | ------------------- |
-| `Alt + h` | Split horizontally  |
-| `Alt + v` | Split vertically    |
-| `Alt + d` | Close active window |
-| `Alt + s` | Focus next window   |
-| `Alt + a` | Focus previous win. |
+| Key       | Action                |
+| --------- | --------------------- |
+| `Alt + h` | Split horizontally    |
+| `Alt + v` | Split vertically      |
+| `Alt + d` | Close active window   |
+| `Alt + s` | Focus next window     |
+| `Alt + a` | Focus previous window |
 
 > On macOS, use the `Option` key instead of `Alt`.
 
