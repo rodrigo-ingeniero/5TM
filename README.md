@@ -37,8 +37,7 @@ Inspired by Hyprland, it brings dynamic layouts, animated splits, and a minimal 
 * Python 3.10+
 * A Unix-like environment (Linux, macOS)
 * A compatible terminal (zsh, xterm, kitty, alacritty…)
-* External dependencies: `pyte`, `psutil`  
-  Install with: `pip install pyte psutil`
+* External dependencies: pyte, psutil. Install with: `pip install pyte psutil`
 
 ### Run
 
