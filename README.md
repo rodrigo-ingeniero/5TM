@@ -65,6 +65,8 @@ python main.py
 5TM is built within this architecture:
 
 * main.py
+   |-> gestor_ventanas.py (window manager)
+   |-> estado 
 
 This separation allows clean logic between layout, rendering, and input handling.
 
