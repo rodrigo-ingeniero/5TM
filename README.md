@@ -127,11 +127,12 @@ MIT License
 
 ---
 
-## ⚡ Final Note
+## ⚡ Final Notes
 
 5TM is an experiment in pushing the limits of terminal interfaces.  
 A window manager — without leaving the terminal.
 
-While Python is not a performance-oriented language, 
-it provides the flexibility needed to turn ideas into working systems quickly.
+Projects like this aim to bring modern computing workflows to older hardware, especially within Linux environments.
+
+While Python is not a performance-oriented language, it provides the flexibility needed to turn ideas into working systems quickly.
 
