@@ -62,14 +62,19 @@ I recommend using python virtual environment
 
 ---
 
-## 🏗️ Architecture
+## 📁 Project structure
 
-5TM is built within this file architecture:
+5TM is built within this file structure:
 
-main.py
-
-|-> gestor_ventanas.py (window manager)
-|-> estado
+main.py (core)
+├─> gestor_ventanas.py (window manager)
+├─> estado_red.py (ip/internet status indicator)
+├─> medidor_cpu.py (cpu % indicator)
+├─> cuadro.py (window instance)
+├─> sesion_terminal.py (emulated terminal instance)
+├─> nodo.py (node type declaration/tree creation)
+├─> layout.py (split and destroy frames)
+├─> animacion.py (renderer)
 
 This separation allows clean logic between layout, rendering, and input handling.
 
