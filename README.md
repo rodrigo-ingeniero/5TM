@@ -44,7 +44,7 @@ Inspired by Hyprland, it brings dynamic layouts, animated splits, and a minimal 
 ```bash
 python main.py
 ```
-Note: I recommend using python virtual environment
+> Note: I recommend using python virtual environment
 
 ---
 
@@ -58,7 +58,7 @@ Note: I recommend using python virtual environment
 | `Alt + s` | Focus next window     |
 | `Alt + a` | Focus previous window |
 
-> On macOS, use the `Option` key instead of `Alt`.
+> Note: On macOS, use the `Option` key instead of `Alt`.
 
 ---
 
