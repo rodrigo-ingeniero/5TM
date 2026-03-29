@@ -53,7 +53,8 @@ python main.py
 | `Alt + h` | Split horizontally  |
 | `Alt + v` | Split vertically    |
 | `Alt + d` | Close active window |
-| `1 - 9`   | Focus window        |
+| `Alt + s` | Focus next window   |
+| `Alt + a` | Focus previous win. |
 
 (On MacBook PCs use "option" key instead of "Alt)
 
@@ -61,12 +62,9 @@ python main.py
 
 ## 🏗️ Architecture
 
-5TM is built around a simple but powerful model:
+5TM is built within this architecture:
 
-* **GestorVentanas** → core window manager
-* **NodoSplit / NodoVentana** → tree-based layout
-* **Renderer / Animator** → smooth transitions
-* **Cuadro** → individual window abstraction
+* main.py * 
 
 This separation allows clean logic between layout, rendering, and input handling.
 
