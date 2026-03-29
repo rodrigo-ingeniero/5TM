@@ -1,4 +1,4 @@
-# 5TM ⚡
+# 5TM 📟 
 
 ### Terminal Tiling Window Manager
 
@@ -10,15 +10,15 @@ Inspired by Hyprland, it brings dynamic layouts, animated splits, and a minimal 
 ## ✨ Features
 
 * 🪟 Tiling window management inside the terminal
-* ⚡ Animated splits and transitions
+* 🎦 Animated splits and transitions
 * ⌨️ Fully keyboard-driven workflow
 * 🌲 Tree-based layout system
-* 🔢 Fast window switching
-* 🧠 Lightweight
+* ⚡ Fast window switching
+* 🪶 Lightweight
 
 ---
 
-## 🧩 What is 5TM?
+## 🤷‍♂️ What is 5TM?
 
 **5TM** stands for:
 
@@ -37,14 +37,13 @@ Inspired by Hyprland, it brings dynamic layouts, animated splits, and a minimal 
 * Python 3.10+
 * A Unix-like environment (Linux, macOS)
 * A compatible terminal (zsh, xterm, kitty, alacritty…)
-* Some external dependences are needed: pyte and psutil
+* Some external dependences are needed: pyte and psutil (install with 'pip install pyte psutil')
 
 ### Run
 
 ```bash
 python main.py
 ```
-
 ---
 
 ## ⌨️ Keybindings
@@ -53,11 +52,11 @@ python main.py
 | --------- | ------------------- |
 | `Alt + h` | Split horizontally  |
 | `Alt + v` | Split vertically    |
-| `Alt + x` | Close active window |
+| `Alt + d` | Close active window |
 | `1 - 9`   | Focus window        |
-| `Tab`     | Next window         |
 
-(On MacBook PCs you have to use "option" key instead of "Alt")
+(On MacBook PCs use "option" key instead of "Alt)
+
 ---
 
 ## 🏗️ Architecture
