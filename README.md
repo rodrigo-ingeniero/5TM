@@ -66,15 +66,15 @@ I recommend using python virtual environment
 
 5TM is built within this file structure:
 
-main.py (core)
-├─> gestor_ventanas.py (window manager)
-├─> estado_red.py (ip/internet status indicator)
-├─> medidor_cpu.py (cpu % indicator)
-├─> cuadro.py (window instance)
-├─> sesion_terminal.py (emulated terminal instance)
-├─> nodo.py (node type declaration/tree creation)
-├─> layout.py (split and destroy frames)
-├─> animacion.py (renderer)
+main.py (core)<br>
+├─> gestor_ventanas.py (window manager)<br>
+├─> estado_red.py (ip/internet status indicator)<br>
+├─> medidor_cpu.py (cpu % indicator)<br>
+├─> cuadro.py (window instance)<br>
+├─> sesion_terminal.py (emulated terminal instance)<br>
+├─> nodo.py (node type declaration/tree creation)<br>
+├─> layout.py (split and destroy frames)<br>
+├─> animacion.py (renderer)<br>
 
 This separation allows clean logic between layout, rendering, and input handling.
 
