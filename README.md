@@ -37,7 +37,8 @@ Inspired by Hyprland, it brings dynamic layouts, animated splits, and a minimal 
 * Python 3.10+
 * A Unix-like environment (Linux, macOS)
 * A compatible terminal (zsh, xterm, kitty, alacritty…)
-* pyte and psutil external dependences are needed (install with 'pip install pyte psutil')
+* External dependencies: `pyte`, `psutil`  
+  Install with: `pip install pyte psutil`
 
 ### Run
 
@@ -129,6 +130,7 @@ MIT License
 
 ## ⚡ Final Note
 
-5TM is an experiment in pushing the limits of what a terminal interface can do.
-A window manager — without leaving the terminal.
+*5TM is an experiment in pushing the limits of what a terminal interface can do.
+A window manager — without leaving the terminal. 
+*I know Python is not a performance-oriented language, but useful for taking abstraction to reality
 
