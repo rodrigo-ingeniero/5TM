@@ -1,6 +1,6 @@
-# 5TM 📟 
+# 5TM 
 
-### Terminal Tiling Window Manager
+### Terminal Tiling Window Manager 📟
 
 **5TM** is a keyboard-driven tiling window manager that runs entirely in the terminal.
 Inspired by Hyprland, it brings dynamic layouts, animated splits, and a minimal workflow to a pure TUI environment.
