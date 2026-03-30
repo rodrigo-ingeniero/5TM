@@ -138,3 +138,5 @@ Projects like this aim to bring modern computing workflows to older hardware, es
 
 While Python is not a performance-oriented language, it provides the flexibility needed to turn ideas into working systems quickly.
 
+(Comments are in Spanish)
+
